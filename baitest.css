@@ -1,0 +1,43 @@
+.dauphong{
+	margin: 0 auto;
+	width: 85%;
+	height: 550px;
+	background: #0DBCE1;
+}
+.phonglon{
+	float: left;
+	margin-left: 1rem;
+	width: 23.5%;
+	height: 250px;
+	color: white;
+}
+.dauphong h3{
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	font-size: 20px;
+}
+.phong1{
+	width: 23%;
+	height: 80%;
+}
+.phongcon{
+	float: left;
+	width: 100%;
+	height: 110px;
+	background: white;
+}
+.phongcon img{
+	margin-left: 2.5rem;
+	text-align: center;
+	display: block;
+	width: : 100%;
+	height: 100%
+
+}
+.phong1{
+	width: 100%;
+	height: 110px;
+	/* background: yellow; */
+}
